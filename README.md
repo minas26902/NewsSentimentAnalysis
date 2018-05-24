@@ -1,5 +1,5 @@
 
-## Distinguishing Sentiments
+## News Sentiment Analysis
 
 In this exercise I utilized Python libraries - pandas, numpy, matplotlib.pyplot, tweepy, seaborn, datetime, VADER - JSON traversals, and Twitter's API to perform a sentiment analysis on the news mood based on tweets from five different news organizations - __BBC, CBS, CNN, Fox News, and New York times__.
 
